@@ -29,3 +29,6 @@ gradlew.bat
 gradle/
 .gradle/
 build/
+
+# vscode
+.vscode/
