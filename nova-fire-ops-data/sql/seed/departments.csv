@@ -13,3 +13,4 @@ dept_id,department_name,headquarters_address,fire_chief,career_uniformed_members
 620,Mount Weather Fire Department,"19844 Blue Ridge Mountain Road, Bluemont, VA 20135",,0,0,0,CAREER,39.064999,-77.887897,
 500,Prince William County Department of Fire and Rescue,"1 County Complex Court, Prince William, VA 22192",Chief Thomas LaBelle,702,78,0,CAREER/VOLUNTEER,38.679675,-77.352999,
 530,Quantico Marine Corps Base Fire Department,"27414 MCB 1, Quantico, VA 22134",,0,0,0,CAREER,38.527823,-77.418592,
+1500,Stafford County Fire and Rescue Department,"1225 Courthouse Road, Stafford, VA 22554",Chief Joseph Cardello,400,0,300,CAREER/VOLUNTEER,38.422453,-77.412815,
