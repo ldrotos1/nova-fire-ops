@@ -1,0 +1,8 @@
+dept_id,address_id,fire_chief,career_uniformed_members,civilian_admin_staff,volunteer_count,department_type,department_border
+200,1,Chief Felipe Hernandez Jr.,311,0,53,CAREER/VOLUNTEER,
+100,2,Chief David Povlitz,300,90,0,CAREER,
+430,3,Chief John O'Neal,0,0,0,CAREER/VOLUNTEER,
+400,4,Chief John S. Butler,1360,183,362,CAREER/VOLUNTEER,
+460,5,Chief Kevin Good,66,1,0,CAREER,
+160,6,,0,0,0,CAREER,
+300,10,Chief Denise S. Pouget,154,9,0,CAREER,

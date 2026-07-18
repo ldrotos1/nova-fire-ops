@@ -31,11 +31,19 @@ user=${conn_info[2]}
 SCRIPT_DIR=$( cd -- "$( dirname -- "${BASH_SOURCE[0]}" )" &> /dev/null && pwd )
 CREATE_DB_FILE="${SCRIPT_DIR}/../sql/schema/create_database.sql"
 CREATE_TABLES_FILE="${SCRIPT_DIR}/../sql/schema/create_tables.sql"
+ADDRESS_DATA="${SCRIPT_DIR}/../sql/seed/address.csv"
 DEPARTMENT_DATA="${SCRIPT_DIR}/../sql/seed/departments.csv"
+NOVA_DEPARTMENT_DATA="${SCRIPT_DIR}/../sql/seed/nova_departments.csv"
 
 echo "Creating database and table schema"
 psql -U "$user" -h "$host" -p "$port" -f "$CREATE_DB_FILE"
 psql -U "$user" -h "$host" -p "$port" -d nova-fire-ops -f "$CREATE_TABLES_FILE"
+
+echo "Loading address data"
+ADDRESS_DATA=$(echo "$ADDRESS_DATA" | tr / \\\\)
+ADDRESS_DATA="c:$(echo "$ADDRESS_DATA" | cut -c 3-)"
+psql -U "$user" -h "$host" -p "$port" -d nova-fire-ops \
+  -c "\\copy nova_fire_ops.address from '$ADDRESS_DATA' WITH DELIMITER ',' CSV HEADER;"
 
 echo "Loading department data"
 DEPARTMENT_DATA=$(echo "$DEPARTMENT_DATA" | tr / \\\\)
@@ -43,11 +51,17 @@ DEPARTMENT_DATA="c:$(echo "$DEPARTMENT_DATA" | cut -c 3-)"
 psql -U "$user" -h "$host" -p "$port" -d nova-fire-ops \
   -c "\\copy nova_fire_ops.departments from '$DEPARTMENT_DATA' WITH DELIMITER ',' CSV HEADER;"
 
+echo "Loading nova department data"
+NOVA_DEPARTMENT_DATA=$(echo "$NOVA_DEPARTMENT_DATA" | tr / \\\\)
+NOVA_DEPARTMENT_DATA="c:$(echo "$NOVA_DEPARTMENT_DATA" | cut -c 3-)"
+psql -U "$user" -h "$host" -p "$port" -d nova-fire-ops \
+  -c "\\copy nova_fire_ops.nova_department from '$NOVA_DEPARTMENT_DATA' WITH DELIMITER ',' CSV HEADER;"
+
 echo "Loading department borders"
 BORDERS_FILE="${SCRIPT_DIR}/../sql/seed/department_borders.geojson"
 
 psql -U "$user" -h "$host" -p "$port" -d nova-fire-ops <<ENDSQL
-UPDATE nova_fire_ops.departments AS d
+UPDATE nova_fire_ops.nova_department AS d
 SET department_border = sub.geom
 FROM (
     SELECT
