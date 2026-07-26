@@ -31,8 +31,8 @@ CREATE TABLE nova_fire_ops.departments
     PRIMARY KEY (dept_id)
 );
 
--- Create the nova_department table --
-CREATE TABLE nova_fire_ops.nova_department
+-- Create the nova_departments table --
+CREATE TABLE nova_fire_ops.nova_departments
 (
     dept_id                  INTEGER       REFERENCES nova_fire_ops.departments (dept_id),
     address_id               INTEGER       NOT NULL REFERENCES nova_fire_ops.address (address_id),

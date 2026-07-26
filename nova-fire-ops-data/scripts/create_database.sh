@@ -55,13 +55,13 @@ echo "Loading nova department data"
 NOVA_DEPARTMENT_DATA=$(echo "$NOVA_DEPARTMENT_DATA" | tr / \\\\)
 NOVA_DEPARTMENT_DATA="c:$(echo "$NOVA_DEPARTMENT_DATA" | cut -c 3-)"
 psql -U "$user" -h "$host" -p "$port" -d nova-fire-ops \
-  -c "\\copy nova_fire_ops.nova_department from '$NOVA_DEPARTMENT_DATA' WITH DELIMITER ',' CSV HEADER;"
+  -c "\\copy nova_fire_ops.nova_departments from '$NOVA_DEPARTMENT_DATA' WITH DELIMITER ',' CSV HEADER;"
 
 echo "Loading department borders"
 BORDERS_FILE="${SCRIPT_DIR}/../sql/seed/department_borders.geojson"
 
 psql -U "$user" -h "$host" -p "$port" -d nova-fire-ops <<ENDSQL
-UPDATE nova_fire_ops.nova_department AS d
+UPDATE nova_fire_ops.nova_departments AS d
 SET department_border = sub.geom
 FROM (
     SELECT
