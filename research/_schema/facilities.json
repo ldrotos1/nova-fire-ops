@@ -1,0 +1,35 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "facilities.json",
+  "title": "facilities.yaml",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "additionalProperties": false,
+    "required": [
+      "id",
+      "name",
+      "type",
+      "address",
+      "lat",
+      "long",
+      "coordinate_source",
+      "operator",
+      "source",
+      "last_verified"
+    ],
+    "properties": {
+      "id": { "$ref": "common.json#/$defs/slug" },
+      "name": { "$ref": "common.json#/$defs/nonEmptyString" },
+      "type": { "enum": ["station", "headquarters", "maintenance", "storage", "training"] },
+      "address": { "$ref": "common.json#/$defs/nonEmptyString" },
+      "lat": { "$ref": "common.json#/$defs/lat" },
+      "long": { "$ref": "common.json#/$defs/long" },
+      "coordinate_source": { "$ref": "common.json#/$defs/coordinateSource" },
+      "operator": { "$ref": "common.json#/$defs/nonEmptyString" },
+      "volunteer_operator": { "$ref": "common.json#/$defs/slug" },
+      "source": { "$ref": "common.json#/$defs/sourceList" },
+      "last_verified": { "$ref": "common.json#/$defs/date" }
+    }
+  }
+}

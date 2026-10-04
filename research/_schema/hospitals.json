@@ -1,0 +1,48 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "hospitals.json",
+  "title": "hospitals.yaml",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "additionalProperties": false,
+    "required": [
+      "id",
+      "name",
+      "facility_type",
+      "address",
+      "lat",
+      "long",
+      "coordinate_source",
+      "serves",
+      "source",
+      "last_verified"
+    ],
+    "dependentRequired": {
+      "trauma_level": ["trauma_level_system"],
+      "pediatric_trauma_level": ["trauma_level_system"]
+    },
+    "properties": {
+      "id": { "$ref": "common.json#/$defs/slug" },
+      "name": { "$ref": "common.json#/$defs/nonEmptyString" },
+      "facility_type": { "enum": ["hospital", "freestanding_ed"] },
+      "address": { "$ref": "common.json#/$defs/nonEmptyString" },
+      "lat": { "$ref": "common.json#/$defs/lat" },
+      "long": { "$ref": "common.json#/$defs/long" },
+      "coordinate_source": { "$ref": "common.json#/$defs/coordinateSource" },
+      "serves": {
+        "type": "array",
+        "uniqueItems": true,
+        "items": { "$ref": "common.json#/$defs/nonEmptyString" }
+      },
+      "trauma_level": { "$ref": "common.json#/$defs/nonEmptyString" },
+      "trauma_level_system": { "$ref": "common.json#/$defs/nonEmptyString" },
+      "pediatric_trauma_level": { "$ref": "common.json#/$defs/nonEmptyString" },
+      "burn_center": { "type": "boolean" },
+      "stroke_center_level": { "$ref": "common.json#/$defs/nonEmptyString" },
+      "stemi_cardiac_center": { "type": "boolean" },
+      "source": { "$ref": "common.json#/$defs/sourceList" },
+      "last_verified": { "$ref": "common.json#/$defs/date" }
+    }
+  }
+}

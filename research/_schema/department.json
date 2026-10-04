@@ -1,0 +1,31 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "department.json",
+  "title": "department.yaml",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["name", "website", "type", "aid_partners"],
+  "properties": {
+    "name": { "$ref": "common.json#/$defs/nonEmptyString" },
+    "website": { "$ref": "common.json#/$defs/nonEmptyString" },
+    "type": { "enum": ["county", "city", "independent", "military", "authority"] },
+    "aid_partners": {
+      "type": "array",
+      "uniqueItems": true,
+      "items": { "$ref": "common.json#/$defs/nonEmptyString" }
+    },
+    "volunteer_companies": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["id", "name"],
+        "properties": {
+          "id": { "$ref": "common.json#/$defs/slug" },
+          "name": { "$ref": "common.json#/$defs/nonEmptyString" }
+        }
+      }
+    }
+  }
+}

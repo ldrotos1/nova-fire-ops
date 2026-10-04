@@ -1,0 +1,51 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "incidents.json",
+  "title": "incidents.yaml",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "additionalProperties": false,
+    "required": ["id", "name", "response_tiers", "source"],
+    "properties": {
+      "id": { "$ref": "common.json#/$defs/slug" },
+      "name": { "$ref": "common.json#/$defs/nonEmptyString" },
+      "cad_code": { "$ref": "common.json#/$defs/nonEmptyString" },
+      "nfirs_codes": {
+        "type": "array",
+        "minItems": 1,
+        "uniqueItems": true,
+        "items": { "type": "string", "pattern": "^\\d{3}$" }
+      },
+      "response_tiers": {
+        "type": "array",
+        "minItems": 1,
+        "items": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": ["tier", "response"],
+          "properties": {
+            "tier": {
+              "enum": ["first_alarm", "working_fire", "second_alarm", "third_alarm", "fourth_alarm_plus"]
+            },
+            "response": {
+              "type": "array",
+              "minItems": 1,
+              "items": {
+                "type": "object",
+                "additionalProperties": false,
+                "required": ["apparatus_type", "count"],
+                "properties": {
+                  "apparatus_type": { "$ref": "common.json#/$defs/category" },
+                  "count": { "type": "integer", "minimum": 1 }
+                }
+              }
+            }
+          }
+        }
+      },
+      "notes": { "$ref": "common.json#/$defs/nonEmptyString" },
+      "source": { "$ref": "common.json#/$defs/sourceList" }
+    }
+  }
+}
