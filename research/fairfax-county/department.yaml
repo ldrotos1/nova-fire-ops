@@ -1,0 +1,46 @@
+name: Fairfax County Fire and Rescue Department
+website: https://www.fairfaxcounty.gov/fire-ems/
+type: county
+# Parties to the Northern Virginia Mutual Response Agreement (NOVA Agreement), names as listed by NVERS:
+# https://www.nvers.org/fireems/fireems-member-departments
+aid_partners:
+  - City of Alexandria Fire Department
+  - Arlington County Fire Department
+  - City of Fairfax Fire Department
+  - Fauquier County Department of Fire and Emergency Services
+  - Fort Belvoir Fire Department
+  - Joint Base Myer-Henderson Hall
+  - Loudoun County Department of Fire and Rescue Services
+  - City of Manassas Fire and Rescue
+  - City of Manassas Park Fire and Rescue
+  - Metropolitan Washington Airports Authority Fire Department
+  - Mount Weather Fire Department
+  - Prince William County Department of Fire and Rescue
+  - Quantico Marine Corps Base Fire Department
+  - Stafford County Fire and Rescue Department
+# Source: https://fcvfra.org/about-us/member-departments/
+volunteer_companies:
+  - id: fairfax-county-mclean-vfd
+    name: McLean Volunteer Fire Department
+  - id: fairfax-county-vienna-vfd
+    name: Vienna Volunteer Fire Department
+  - id: fairfax-county-franconia-vfd
+    name: Franconia Volunteer Fire Department
+  - id: fairfax-county-annandale-vfd
+    name: Annandale Volunteer Fire Department
+  - id: fairfax-county-baileys-crossroads-vfd
+    name: Bailey's Crossroads Volunteer Fire Department
+  - id: fairfax-county-great-falls-vfd
+    name: Great Falls Volunteer Fire Department
+  - id: fairfax-county-dunn-loring-vfrd
+    name: Dunn Loring Volunteer Fire and Rescue Department
+  - id: fairfax-county-burke-vfrd
+    name: Burke Volunteer Fire and Rescue Department
+  - id: fairfax-county-centreville-vfd
+    name: Centreville Volunteer Fire Department
+  - id: fairfax-county-lorton-vfd
+    name: Lorton Volunteer Fire Department
+  - id: fairfax-county-fair-oaks-vfr
+    name: Fair Oaks Volunteer Fire and Rescue Department
+  - id: fairfax-county-greater-springfield-vfd
+    name: Greater Springfield Volunteer Fire Department

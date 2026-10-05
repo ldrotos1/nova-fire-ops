@@ -25,7 +25,7 @@ Stages: `not started` → `facilities` → `apparatus` → `verified`
 
 | Department | Status |
 |---|---|
-| Fairfax County | not started |
+| Fairfax County | apparatus |
 | Fairfax City | not started |
 | Fort Belvoir | not started |
 | Arlington County | not started |

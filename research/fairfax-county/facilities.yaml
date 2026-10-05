@@ -1,0 +1,765 @@
+- id: fairfax-county-station-401
+  name: Fire Station 1 - McLean
+  type: station
+  address: 1455 Laughlin Avenue, McLean, VA 22101
+  lat: 38.931661
+  long: -77.177648
+  coordinate_source: source-provided
+  operator: Fairfax County Fire and Rescue Department
+  volunteer_operator: fairfax-county-mclean-vfd
+  battalion: '402'
+  division: '401'
+  source:
+  - {url: 'https://data-fairfaxcountygis.opendata.arcgis.com/datasets/Fairfaxcountygis::fire-stations-3', confidence: official}
+  - {url: 'https://www.fairfaxcounty.gov/fire-ems/fire-stations', confidence: official}
+  - {url: 'https://fcvfra.org/about-us/member-departments/', confidence: official}
+  - {url: 'https://services2.arcgis.com/S6mKhQEnAuTji2Zb/arcgis/rest/services/FRD_Battalion/FeatureServer/0', confidence: official}
+  - {url: 'https://services2.arcgis.com/S6mKhQEnAuTji2Zb/arcgis/rest/services/FRD_Division/FeatureServer/0', confidence: official}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-station-402
+  name: Fire Station 2 - Vienna
+  type: station
+  address: 400 Center Street SW, Vienna, VA 22180
+  lat: 38.899107
+  long: -77.261452
+  coordinate_source: source-provided
+  operator: Fairfax County Fire and Rescue Department
+  volunteer_operator: fairfax-county-vienna-vfd
+  battalion: '402'
+  division: '401'
+  source:
+  - {url: 'https://data-fairfaxcountygis.opendata.arcgis.com/datasets/Fairfaxcountygis::fire-stations-3', confidence: official}
+  - {url: 'https://www.fairfaxcounty.gov/fire-ems/fire-stations', confidence: official}
+  - {url: 'https://fcvfra.org/about-us/member-departments/', confidence: official}
+  - {url: 'https://services2.arcgis.com/S6mKhQEnAuTji2Zb/arcgis/rest/services/FRD_Battalion/FeatureServer/0', confidence: official}
+  - {url: 'https://services2.arcgis.com/S6mKhQEnAuTji2Zb/arcgis/rest/services/FRD_Division/FeatureServer/0', confidence: official}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-station-404
+  name: Fire Station 4 - Herndon
+  type: station
+  address: 680 Spring Street, Herndon, VA 20170
+  lat: 38.969089
+  long: -77.385948
+  coordinate_source: source-provided
+  operator: Fairfax County Fire and Rescue Department
+  battalion: '401'
+  division: '401'
+  source:
+  - {url: 'https://data-fairfaxcountygis.opendata.arcgis.com/datasets/Fairfaxcountygis::fire-stations-3', confidence: official}
+  - {url: 'https://www.fairfaxcounty.gov/fire-ems/fire-stations', confidence: official}
+  - {url: 'https://services2.arcgis.com/S6mKhQEnAuTji2Zb/arcgis/rest/services/FRD_Battalion/FeatureServer/0', confidence: official}
+  - {url: 'https://services2.arcgis.com/S6mKhQEnAuTji2Zb/arcgis/rest/services/FRD_Division/FeatureServer/0', confidence: official}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-station-405
+  name: Fire Station 5 - Franconia
+  type: station
+  address: 6300 Beulah Street, Alexandria, VA 22310
+  lat: 38.780761
+  long: -77.146325
+  coordinate_source: source-provided
+  operator: Fairfax County Fire and Rescue Department
+  volunteer_operator: fairfax-county-franconia-vfd
+  battalion: '408'
+  division: '402'
+  source:
+  - {url: 'https://data-fairfaxcountygis.opendata.arcgis.com/datasets/Fairfaxcountygis::fire-stations-3', confidence: official}
+  - {url: 'https://www.fairfaxcounty.gov/fire-ems/fire-stations', confidence: official}
+  - {url: 'https://fcvfra.org/about-us/member-departments/', confidence: official}
+  - {url: 'https://services2.arcgis.com/S6mKhQEnAuTji2Zb/arcgis/rest/services/FRD_Battalion/FeatureServer/0', confidence: official}
+  - {url: 'https://services2.arcgis.com/S6mKhQEnAuTji2Zb/arcgis/rest/services/FRD_Division/FeatureServer/0', confidence: official}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-station-408
+  name: Fire Station 8 - Annandale
+  type: station
+  address: 7128 Columbia Pike, Annandale, VA 22003
+  lat: 38.832529
+  long: -77.191725
+  coordinate_source: source-provided
+  operator: Fairfax County Fire and Rescue Department
+  volunteer_operator: fairfax-county-annandale-vfd
+  battalion: '404'
+  division: '402'
+  source:
+  - {url: 'https://data-fairfaxcountygis.opendata.arcgis.com/datasets/Fairfaxcountygis::fire-stations-3', confidence: official}
+  - {url: 'https://www.fairfaxcounty.gov/fire-ems/fire-stations', confidence: official}
+  - {url: 'https://fcvfra.org/about-us/member-departments/', confidence: official}
+  - {url: 'https://services2.arcgis.com/S6mKhQEnAuTji2Zb/arcgis/rest/services/FRD_Battalion/FeatureServer/0', confidence: official}
+  - {url: 'https://services2.arcgis.com/S6mKhQEnAuTji2Zb/arcgis/rest/services/FRD_Division/FeatureServer/0', confidence: official}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-station-409
+  name: Fire Station 9 - Mount Vernon
+  type: station
+  address: 2601 Sherwood Hall Lane, Alexandria, VA 22306
+  lat: 38.742769
+  long: -77.077358
+  coordinate_source: source-provided
+  operator: Fairfax County Fire and Rescue Department
+  battalion: '406'
+  division: '402'
+  source:
+  - {url: 'https://data-fairfaxcountygis.opendata.arcgis.com/datasets/Fairfaxcountygis::fire-stations-3', confidence: official}
+  - {url: 'https://www.fairfaxcounty.gov/fire-ems/fire-stations', confidence: official}
+  - {url: 'https://services2.arcgis.com/S6mKhQEnAuTji2Zb/arcgis/rest/services/FRD_Battalion/FeatureServer/0', confidence: official}
+  - {url: 'https://services2.arcgis.com/S6mKhQEnAuTji2Zb/arcgis/rest/services/FRD_Division/FeatureServer/0', confidence: official}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-station-410
+  name: Fire Station 10 - Bailey's Crossroads
+  type: station
+  address: 3601 Firehouse Lane, Falls Church, VA 22041
+  lat: 38.845487
+  long: -77.139312
+  coordinate_source: source-provided
+  operator: Fairfax County Fire and Rescue Department
+  volunteer_operator: fairfax-county-baileys-crossroads-vfd
+  battalion: '408'
+  division: '402'
+  source:
+  - {url: 'https://data-fairfaxcountygis.opendata.arcgis.com/datasets/Fairfaxcountygis::fire-stations-3', confidence: official}
+  - {url: 'https://www.fairfaxcounty.gov/fire-ems/fire-stations', confidence: official}
+  - {url: 'https://fcvfra.org/about-us/member-departments/', confidence: official}
+  - {url: 'https://services2.arcgis.com/S6mKhQEnAuTji2Zb/arcgis/rest/services/FRD_Battalion/FeatureServer/0', confidence: official}
+  - {url: 'https://services2.arcgis.com/S6mKhQEnAuTji2Zb/arcgis/rest/services/FRD_Division/FeatureServer/0', confidence: official}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-station-411
+  name: Fire Station 11 - Penn Daw
+  type: station
+  address: 6624 Hulvey Terrace, Alexandria, VA 22306
+  lat: 38.773048
+  long: -77.079446
+  coordinate_source: source-provided
+  operator: Fairfax County Fire and Rescue Department
+  battalion: '406'
+  division: '402'
+  source:
+  - {url: 'https://data-fairfaxcountygis.opendata.arcgis.com/datasets/Fairfaxcountygis::fire-stations-3', confidence: official}
+  - {url: 'https://www.fairfaxcounty.gov/fire-ems/fire-stations', confidence: official}
+  - {url: 'https://services2.arcgis.com/S6mKhQEnAuTji2Zb/arcgis/rest/services/FRD_Battalion/FeatureServer/0', confidence: official}
+  - {url: 'https://services2.arcgis.com/S6mKhQEnAuTji2Zb/arcgis/rest/services/FRD_Division/FeatureServer/0', confidence: official}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-station-412
+  name: Fire Station 12 - Great Falls
+  type: station
+  address: 9916 Georgetown Pike, Great Falls, VA 22066
+  lat: 38.99871
+  long: -77.29094
+  coordinate_source: source-provided
+  operator: Fairfax County Fire and Rescue Department
+  volunteer_operator: fairfax-county-great-falls-vfd
+  battalion: '401'
+  division: '401'
+  source:
+  - {url: 'https://data-fairfaxcountygis.opendata.arcgis.com/datasets/Fairfaxcountygis::fire-stations-3', confidence: official}
+  - {url: 'https://www.fairfaxcounty.gov/fire-ems/fire-stations', confidence: official}
+  - {url: 'https://fcvfra.org/about-us/member-departments/', confidence: official}
+  - {url: 'https://services2.arcgis.com/S6mKhQEnAuTji2Zb/arcgis/rest/services/FRD_Battalion/FeatureServer/0', confidence: official}
+  - {url: 'https://services2.arcgis.com/S6mKhQEnAuTji2Zb/arcgis/rest/services/FRD_Division/FeatureServer/0', confidence: official}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-station-413
+  name: Fire Station 13 - Dunn Loring
+  type: station
+  address: 2148 Gallows Road, Dunn Loring, VA 22027
+  lat: 38.902521
+  long: -77.223666
+  coordinate_source: source-provided
+  operator: Fairfax County Fire and Rescue Department
+  volunteer_operator: fairfax-county-dunn-loring-vfrd
+  battalion: '402'
+  division: '401'
+  source:
+  - {url: 'https://data-fairfaxcountygis.opendata.arcgis.com/datasets/Fairfaxcountygis::fire-stations-3', confidence: official}
+  - {url: 'https://www.fairfaxcounty.gov/fire-ems/fire-stations', confidence: official}
+  - {url: 'https://fcvfra.org/about-us/member-departments/', confidence: official}
+  - {url: 'https://services2.arcgis.com/S6mKhQEnAuTji2Zb/arcgis/rest/services/FRD_Battalion/FeatureServer/0', confidence: official}
+  - {url: 'https://services2.arcgis.com/S6mKhQEnAuTji2Zb/arcgis/rest/services/FRD_Division/FeatureServer/0', confidence: official}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-station-414
+  name: Fire Station 14 - Burke
+  type: station
+  address: 9501 Old Burke Lake Road, Burke, VA 22015
+  lat: 38.793207
+  long: -77.271944
+  coordinate_source: source-provided
+  operator: Fairfax County Fire and Rescue Department
+  volunteer_operator: fairfax-county-burke-vfrd
+  battalion: '405'
+  division: '402'
+  source:
+  - {url: 'https://data-fairfaxcountygis.opendata.arcgis.com/datasets/Fairfaxcountygis::fire-stations-3', confidence: official}
+  - {url: 'https://www.fairfaxcounty.gov/fire-ems/fire-stations', confidence: official}
+  - {url: 'https://fcvfra.org/about-us/member-departments/', confidence: official}
+  - {url: 'https://services2.arcgis.com/S6mKhQEnAuTji2Zb/arcgis/rest/services/FRD_Battalion/FeatureServer/0', confidence: official}
+  - {url: 'https://services2.arcgis.com/S6mKhQEnAuTji2Zb/arcgis/rest/services/FRD_Division/FeatureServer/0', confidence: official}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-station-415
+  name: Fire Station 15 - Chantilly
+  type: station
+  address: 14005 Vernon Street, Chantilly, VA 20151
+  lat: 38.891915
+  long: -77.431578
+  coordinate_source: source-provided
+  operator: Fairfax County Fire and Rescue Department
+  battalion: '403'
+  division: '401'
+  source:
+  - {url: 'https://data-fairfaxcountygis.opendata.arcgis.com/datasets/Fairfaxcountygis::fire-stations-3', confidence: official}
+  - {url: 'https://www.fairfaxcounty.gov/fire-ems/fire-stations', confidence: official}
+  - {url: 'https://services2.arcgis.com/S6mKhQEnAuTji2Zb/arcgis/rest/services/FRD_Battalion/FeatureServer/0', confidence: official}
+  - {url: 'https://services2.arcgis.com/S6mKhQEnAuTji2Zb/arcgis/rest/services/FRD_Division/FeatureServer/0', confidence: official}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-station-416
+  name: Fire Station 16 - Clifton
+  type: station
+  address: 12645 Chapel Road, Clifton, VA 20124
+  lat: 38.78091
+  long: -77.384786
+  coordinate_source: source-provided
+  operator: Fairfax County Fire and Rescue Department
+  battalion: '407'
+  division: '401'
+  source:
+  - {url: 'https://data-fairfaxcountygis.opendata.arcgis.com/datasets/Fairfaxcountygis::fire-stations-3', confidence: official}
+  - {url: 'https://www.fairfaxcounty.gov/fire-ems/fire-stations', confidence: official}
+  - {url: 'https://services2.arcgis.com/S6mKhQEnAuTji2Zb/arcgis/rest/services/FRD_Battalion/FeatureServer/0', confidence: official}
+  - {url: 'https://services2.arcgis.com/S6mKhQEnAuTji2Zb/arcgis/rest/services/FRD_Division/FeatureServer/0', confidence: official}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-station-417
+  name: Fire Station 17 - Centreville
+  type: station
+  address: 5856 Old Centreville Road, Centreville, VA 20121
+  lat: 38.836978
+  long: -77.429917
+  coordinate_source: source-provided
+  operator: Fairfax County Fire and Rescue Department
+  volunteer_operator: fairfax-county-centreville-vfd
+  battalion: '403'
+  division: '401'
+  source:
+  - {url: 'https://data-fairfaxcountygis.opendata.arcgis.com/datasets/Fairfaxcountygis::fire-stations-3', confidence: official}
+  - {url: 'https://www.fairfaxcounty.gov/fire-ems/fire-stations', confidence: official}
+  - {url: 'https://fcvfra.org/about-us/member-departments/', confidence: official}
+  - {url: 'https://services2.arcgis.com/S6mKhQEnAuTji2Zb/arcgis/rest/services/FRD_Battalion/FeatureServer/0', confidence: official}
+  - {url: 'https://services2.arcgis.com/S6mKhQEnAuTji2Zb/arcgis/rest/services/FRD_Division/FeatureServer/0', confidence: official}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-station-418
+  name: Fire Station 18 - Jefferson
+  type: station
+  address: 3101 Hodge Place, Falls Church, VA 22042
+  lat: 38.865824
+  long: -77.192933
+  coordinate_source: source-provided
+  operator: Fairfax County Fire and Rescue Department
+  battalion: '404'
+  division: '402'
+  source:
+  - {url: 'https://data-fairfaxcountygis.opendata.arcgis.com/datasets/Fairfaxcountygis::fire-stations-3', confidence: official}
+  - {url: 'https://www.fairfaxcounty.gov/fire-ems/fire-stations', confidence: official}
+  - {url: 'https://services2.arcgis.com/S6mKhQEnAuTji2Zb/arcgis/rest/services/FRD_Battalion/FeatureServer/0', confidence: official}
+  - {url: 'https://services2.arcgis.com/S6mKhQEnAuTji2Zb/arcgis/rest/services/FRD_Division/FeatureServer/0', confidence: official}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-station-419
+  name: Fire Station 19 - Lorton
+  type: station
+  address: 7701 Armistead Road Lorton, VA 22079
+  lat: 38.703715
+  long: -77.210038
+  coordinate_source: source-provided
+  operator: Fairfax County Fire and Rescue Department
+  volunteer_operator: fairfax-county-lorton-vfd
+  battalion: '405'
+  division: '402'
+  source:
+  - {url: 'https://data-fairfaxcountygis.opendata.arcgis.com/datasets/Fairfaxcountygis::fire-stations-3', confidence: official}
+  - {url: 'https://www.fairfaxcounty.gov/fire-ems/fire-stations', confidence: official}
+  - {url: 'https://fcvfra.org/about-us/member-departments/', confidence: official}
+  - {url: 'https://services2.arcgis.com/S6mKhQEnAuTji2Zb/arcgis/rest/services/FRD_Battalion/FeatureServer/0', confidence: official}
+  - {url: 'https://services2.arcgis.com/S6mKhQEnAuTji2Zb/arcgis/rest/services/FRD_Division/FeatureServer/0', confidence: official}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-station-420
+  name: Fire Station 20 - Gunston
+  type: station
+  address: 10417 Gunston Road, Lorton, VA 22079
+  lat: 38.673447
+  long: -77.194041
+  coordinate_source: source-provided
+  operator: Fairfax County Fire and Rescue Department
+  battalion: '405'
+  division: '402'
+  source:
+  - {url: 'https://data-fairfaxcountygis.opendata.arcgis.com/datasets/Fairfaxcountygis::fire-stations-3', confidence: official}
+  - {url: 'https://www.fairfaxcounty.gov/fire-ems/fire-stations', confidence: official}
+  - {url: 'https://services2.arcgis.com/S6mKhQEnAuTji2Zb/arcgis/rest/services/FRD_Battalion/FeatureServer/0', confidence: official}
+  - {url: 'https://services2.arcgis.com/S6mKhQEnAuTji2Zb/arcgis/rest/services/FRD_Division/FeatureServer/0', confidence: official}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-station-421
+  name: Fire Station 21 - Fair Oaks
+  type: station
+  address: 12300 Route 50, Fairfax, VA 22033
+  lat: 38.871325
+  long: -77.370613
+  coordinate_source: source-provided
+  operator: Fairfax County Fire and Rescue Department
+  volunteer_operator: fairfax-county-fair-oaks-vfr
+  battalion: '407'
+  division: '401'
+  source:
+  - {url: 'https://data-fairfaxcountygis.opendata.arcgis.com/datasets/Fairfaxcountygis::fire-stations-3', confidence: official}
+  - {url: 'https://www.fairfaxcounty.gov/fire-ems/fire-stations', confidence: official}
+  - {url: 'https://fcvfra.org/about-us/member-departments/', confidence: official}
+  - {url: 'https://services2.arcgis.com/S6mKhQEnAuTji2Zb/arcgis/rest/services/FRD_Battalion/FeatureServer/0', confidence: official}
+  - {url: 'https://services2.arcgis.com/S6mKhQEnAuTji2Zb/arcgis/rest/services/FRD_Division/FeatureServer/0', confidence: official}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-station-422
+  name: Fire Station 22 - Springfield
+  type: station
+  address: 7011 Backlick Road, Springfield, VA 22150
+  lat: 38.766128
+  long: -77.18381
+  coordinate_source: source-provided
+  operator: Fairfax County Fire and Rescue Department
+  volunteer_operator: fairfax-county-greater-springfield-vfd
+  battalion: '408'
+  division: '402'
+  source:
+  - {url: 'https://data-fairfaxcountygis.opendata.arcgis.com/datasets/Fairfaxcountygis::fire-stations-3', confidence: official}
+  - {url: 'https://www.fairfaxcounty.gov/fire-ems/fire-stations', confidence: official}
+  - {url: 'https://fcvfra.org/about-us/member-departments/', confidence: official}
+  - {url: 'https://services2.arcgis.com/S6mKhQEnAuTji2Zb/arcgis/rest/services/FRD_Battalion/FeatureServer/0', confidence: official}
+  - {url: 'https://services2.arcgis.com/S6mKhQEnAuTji2Zb/arcgis/rest/services/FRD_Division/FeatureServer/0', confidence: official}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-station-423
+  name: Fire Station 23 - West Annandale
+  type: station
+  address: 8914 Little River Turnpike, Fairfax, VA 22031
+  lat: 38.83914
+  long: -77.251938
+  coordinate_source: source-provided
+  operator: Fairfax County Fire and Rescue Department
+  volunteer_operator: fairfax-county-annandale-vfd
+  battalion: '404'
+  division: '402'
+  source:
+  - {url: 'https://data-fairfaxcountygis.opendata.arcgis.com/datasets/Fairfaxcountygis::fire-stations-3', confidence: official}
+  - {url: 'https://www.fairfaxcounty.gov/fire-ems/fire-stations', confidence: official}
+  - {url: 'https://fcvfra.org/about-us/member-departments/', confidence: official}
+  - {url: 'https://services2.arcgis.com/S6mKhQEnAuTji2Zb/arcgis/rest/services/FRD_Battalion/FeatureServer/0', confidence: official}
+  - {url: 'https://services2.arcgis.com/S6mKhQEnAuTji2Zb/arcgis/rest/services/FRD_Division/FeatureServer/0', confidence: official}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-station-424
+  name: Fire Station 24 - Woodlawn
+  type: station
+  address: 8701 Lukens Lane, Alexandria, VA 22309
+  lat: 38.721507
+  long: -77.119275
+  coordinate_source: source-provided
+  operator: Fairfax County Fire and Rescue Department
+  battalion: '406'
+  division: '402'
+  source:
+  - {url: 'https://data-fairfaxcountygis.opendata.arcgis.com/datasets/Fairfaxcountygis::fire-stations-3', confidence: official}
+  - {url: 'https://www.fairfaxcounty.gov/fire-ems/fire-stations', confidence: official}
+  - {url: 'https://services2.arcgis.com/S6mKhQEnAuTji2Zb/arcgis/rest/services/FRD_Battalion/FeatureServer/0', confidence: official}
+  - {url: 'https://services2.arcgis.com/S6mKhQEnAuTji2Zb/arcgis/rest/services/FRD_Division/FeatureServer/0', confidence: official}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-station-425
+  name: Fire Station 25 - Reston
+  type: station
+  address: 1820 Wiehle Avenue, Reston, VA 20190
+  lat: 38.950989
+  long: -77.335859
+  coordinate_source: source-provided
+  operator: Fairfax County Fire and Rescue Department
+  battalion: '401'
+  division: '401'
+  source:
+  - {url: 'https://data-fairfaxcountygis.opendata.arcgis.com/datasets/Fairfaxcountygis::fire-stations-3', confidence: official}
+  - {url: 'https://www.fairfaxcounty.gov/fire-ems/fire-stations', confidence: official}
+  - {url: 'https://services2.arcgis.com/S6mKhQEnAuTji2Zb/arcgis/rest/services/FRD_Battalion/FeatureServer/0', confidence: official}
+  - {url: 'https://services2.arcgis.com/S6mKhQEnAuTji2Zb/arcgis/rest/services/FRD_Division/FeatureServer/0', confidence: official}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-station-426
+  name: Fire Station 26 - Edsall Road
+  type: station
+  address: 5316 Carolina Place, Springfield, VA 22151
+  lat: 38.805199
+  long: -77.171109
+  coordinate_source: source-provided
+  operator: Fairfax County Fire and Rescue Department
+  battalion: '408'
+  division: '402'
+  source:
+  - {url: 'https://data-fairfaxcountygis.opendata.arcgis.com/datasets/Fairfaxcountygis::fire-stations-3', confidence: official}
+  - {url: 'https://www.fairfaxcounty.gov/fire-ems/fire-stations', confidence: official}
+  - {url: 'https://services2.arcgis.com/S6mKhQEnAuTji2Zb/arcgis/rest/services/FRD_Battalion/FeatureServer/0', confidence: official}
+  - {url: 'https://services2.arcgis.com/S6mKhQEnAuTji2Zb/arcgis/rest/services/FRD_Division/FeatureServer/0', confidence: official}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-station-427
+  name: Fire Station 27 - West Springfield
+  type: station
+  address: 6140 Rolling Road, Springfield, VA 22152
+  lat: 38.783617
+  long: -77.237417
+  coordinate_source: source-provided
+  operator: Fairfax County Fire and Rescue Department
+  battalion: '408'
+  division: '402'
+  source:
+  - {url: 'https://data-fairfaxcountygis.opendata.arcgis.com/datasets/Fairfaxcountygis::fire-stations-3', confidence: official}
+  - {url: 'https://www.fairfaxcounty.gov/fire-ems/fire-stations', confidence: official}
+  - {url: 'https://services2.arcgis.com/S6mKhQEnAuTji2Zb/arcgis/rest/services/FRD_Battalion/FeatureServer/0', confidence: official}
+  - {url: 'https://services2.arcgis.com/S6mKhQEnAuTji2Zb/arcgis/rest/services/FRD_Division/FeatureServer/0', confidence: official}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-station-428
+  name: Fire Station 28 - Fort Buffalo
+  type: station
+  address: 2949 Sleepy Hollow Road, Falls Church, VA 22044
+  lat: 38.870407
+  long: -77.156728
+  coordinate_source: source-provided
+  operator: Fairfax County Fire and Rescue Department
+  battalion: '404'
+  division: '402'
+  source:
+  - {url: 'https://data-fairfaxcountygis.opendata.arcgis.com/datasets/Fairfaxcountygis::fire-stations-3', confidence: official}
+  - {url: 'https://www.fairfaxcounty.gov/fire-ems/fire-stations', confidence: official}
+  - {url: 'https://services2.arcgis.com/S6mKhQEnAuTji2Zb/arcgis/rest/services/FRD_Battalion/FeatureServer/0', confidence: official}
+  - {url: 'https://services2.arcgis.com/S6mKhQEnAuTji2Zb/arcgis/rest/services/FRD_Division/FeatureServer/0', confidence: official}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-station-429
+  name: Fire Station 29 - Tysons Corner
+  type: station
+  address: 1560 Spring Hill Road, McLean, VA 22102
+  lat: 38.929112
+  long: -77.239299
+  coordinate_source: source-provided
+  operator: Fairfax County Fire and Rescue Department
+  battalion: '402'
+  division: '401'
+  source:
+  - {url: 'https://data-fairfaxcountygis.opendata.arcgis.com/datasets/Fairfaxcountygis::fire-stations-3', confidence: official}
+  - {url: 'https://www.fairfaxcounty.gov/fire-ems/fire-stations', confidence: official}
+  - {url: 'https://services2.arcgis.com/S6mKhQEnAuTji2Zb/arcgis/rest/services/FRD_Battalion/FeatureServer/0', confidence: official}
+  - {url: 'https://services2.arcgis.com/S6mKhQEnAuTji2Zb/arcgis/rest/services/FRD_Division/FeatureServer/0', confidence: official}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-station-430
+  name: Fire Station 30 - Merrifield
+  type: station
+  address: 8739 Route 29, Fairfax, VA 22031
+  lat: 38.872442
+  long: -77.248231
+  coordinate_source: source-provided
+  operator: Fairfax County Fire and Rescue Department
+  battalion: '404'
+  division: '402'
+  source:
+  - {url: 'https://data-fairfaxcountygis.opendata.arcgis.com/datasets/Fairfaxcountygis::fire-stations-3', confidence: official}
+  - {url: 'https://www.fairfaxcounty.gov/fire-ems/fire-stations', confidence: official}
+  - {url: 'https://services2.arcgis.com/S6mKhQEnAuTji2Zb/arcgis/rest/services/FRD_Battalion/FeatureServer/0', confidence: official}
+  - {url: 'https://services2.arcgis.com/S6mKhQEnAuTji2Zb/arcgis/rest/services/FRD_Division/FeatureServer/0', confidence: official}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-station-431
+  name: Fire Station 31 - Fox Mill
+  type: station
+  address: 2610 Reston Parkway, Herndon, VA 20171
+  lat: 38.926233
+  long: -77.373517
+  coordinate_source: source-provided
+  operator: Fairfax County Fire and Rescue Department
+  battalion: '403'
+  division: '401'
+  source:
+  - {url: 'https://data-fairfaxcountygis.opendata.arcgis.com/datasets/Fairfaxcountygis::fire-stations-3', confidence: official}
+  - {url: 'https://www.fairfaxcounty.gov/fire-ems/fire-stations', confidence: official}
+  - {url: 'https://services2.arcgis.com/S6mKhQEnAuTji2Zb/arcgis/rest/services/FRD_Battalion/FeatureServer/0', confidence: official}
+  - {url: 'https://services2.arcgis.com/S6mKhQEnAuTji2Zb/arcgis/rest/services/FRD_Division/FeatureServer/0', confidence: official}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-station-432
+  name: Fire Station 32 - Fairview
+  type: station
+  address: 5600 Burke Centre Parkway, Fairfax Station, VA 22039
+  lat: 38.79846
+  long: -77.326445
+  coordinate_source: source-provided
+  operator: Fairfax County Fire and Rescue Department
+  battalion: '407'
+  division: '401'
+  source:
+  - {url: 'https://data-fairfaxcountygis.opendata.arcgis.com/datasets/Fairfaxcountygis::fire-stations-3', confidence: official}
+  - {url: 'https://www.fairfaxcounty.gov/fire-ems/fire-stations', confidence: official}
+  - {url: 'https://services2.arcgis.com/S6mKhQEnAuTji2Zb/arcgis/rest/services/FRD_Battalion/FeatureServer/0', confidence: official}
+  - {url: 'https://services2.arcgis.com/S6mKhQEnAuTji2Zb/arcgis/rest/services/FRD_Division/FeatureServer/0', confidence: official}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-station-434
+  name: Fire Station 34 - Oakton
+  type: station
+  address: 10511 Rosehaven Street, Fairfax, VA 22030
+  lat: 38.876177
+  long: -77.308691
+  coordinate_source: source-provided
+  operator: Fairfax County Fire and Rescue Department
+  battalion: '407'
+  division: '401'
+  source:
+  - {url: 'https://data-fairfaxcountygis.opendata.arcgis.com/datasets/Fairfaxcountygis::fire-stations-3', confidence: official}
+  - {url: 'https://www.fairfaxcounty.gov/fire-ems/fire-stations', confidence: official}
+  - {url: 'https://services2.arcgis.com/S6mKhQEnAuTji2Zb/arcgis/rest/services/FRD_Battalion/FeatureServer/0', confidence: official}
+  - {url: 'https://services2.arcgis.com/S6mKhQEnAuTji2Zb/arcgis/rest/services/FRD_Division/FeatureServer/0', confidence: official}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-station-435
+  name: Fire Station 35 - Pohick
+  type: station
+  address: 7801 Maritime Lane, Springfield, VA 22153
+  lat: 38.746053
+  long: -77.252948
+  coordinate_source: source-provided
+  operator: Fairfax County Fire and Rescue Department
+  battalion: '405'
+  division: '402'
+  source:
+  - {url: 'https://data-fairfaxcountygis.opendata.arcgis.com/datasets/Fairfaxcountygis::fire-stations-3', confidence: official}
+  - {url: 'https://www.fairfaxcounty.gov/fire-ems/fire-stations', confidence: official}
+  - {url: 'https://services2.arcgis.com/S6mKhQEnAuTji2Zb/arcgis/rest/services/FRD_Battalion/FeatureServer/0', confidence: official}
+  - {url: 'https://services2.arcgis.com/S6mKhQEnAuTji2Zb/arcgis/rest/services/FRD_Division/FeatureServer/0', confidence: official}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-station-436
+  name: Fire Station 36 - Frying Pan
+  type: station
+  address: 2660 West Ox Road, Herndon, VA 20171
+  lat: 38.936948
+  long: -77.414049
+  coordinate_source: source-provided
+  operator: Fairfax County Fire and Rescue Department
+  battalion: '403'
+  division: '401'
+  source:
+  - {url: 'https://data-fairfaxcountygis.opendata.arcgis.com/datasets/Fairfaxcountygis::fire-stations-3', confidence: official}
+  - {url: 'https://www.fairfaxcounty.gov/fire-ems/fire-stations', confidence: official}
+  - {url: 'https://services2.arcgis.com/S6mKhQEnAuTji2Zb/arcgis/rest/services/FRD_Battalion/FeatureServer/0', confidence: official}
+  - {url: 'https://services2.arcgis.com/S6mKhQEnAuTji2Zb/arcgis/rest/services/FRD_Division/FeatureServer/0', confidence: official}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-station-437
+  name: Fire Station 37 - Kingstowne
+  type: station
+  address: 7936 Telegraph Road, Alexandria, VA 22315
+  lat: 38.742734
+  long: -77.15903
+  coordinate_source: source-provided
+  operator: Fairfax County Fire and Rescue Department
+  volunteer_operator: fairfax-county-franconia-vfd
+  battalion: '406'
+  division: '402'
+  source:
+  - {url: 'https://data-fairfaxcountygis.opendata.arcgis.com/datasets/Fairfaxcountygis::fire-stations-3', confidence: official}
+  - {url: 'https://www.fairfaxcounty.gov/fire-ems/fire-stations', confidence: official}
+  - {url: 'https://fcvfra.org/about-us/member-departments/', confidence: official}
+  - {url: 'https://services2.arcgis.com/S6mKhQEnAuTji2Zb/arcgis/rest/services/FRD_Battalion/FeatureServer/0', confidence: official}
+  - {url: 'https://services2.arcgis.com/S6mKhQEnAuTji2Zb/arcgis/rest/services/FRD_Division/FeatureServer/0', confidence: official}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-station-438
+  name: Fire Station 38 - West Centreville
+  type: station
+  address: 6001 ODay Drive, Centreville, VA 20120
+  lat: 38.843402
+  long: -77.453282
+  coordinate_source: source-provided
+  operator: Fairfax County Fire and Rescue Department
+  volunteer_operator: fairfax-county-centreville-vfd
+  battalion: '403'
+  division: '401'
+  source:
+  - {url: 'https://data-fairfaxcountygis.opendata.arcgis.com/datasets/Fairfaxcountygis::fire-stations-3', confidence: official}
+  - {url: 'https://www.fairfaxcounty.gov/fire-ems/fire-stations', confidence: official}
+  - {url: 'https://fcvfra.org/about-us/member-departments/', confidence: official}
+  - {url: 'https://services2.arcgis.com/S6mKhQEnAuTji2Zb/arcgis/rest/services/FRD_Battalion/FeatureServer/0', confidence: official}
+  - {url: 'https://services2.arcgis.com/S6mKhQEnAuTji2Zb/arcgis/rest/services/FRD_Division/FeatureServer/0', confidence: official}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-station-439
+  name: Fire Station 39 - North Point
+  type: station
+  address: 1117 Reston Avenue, Herndon, VA 20170
+  lat: 38.998153
+  long: -77.342908
+  coordinate_source: source-provided
+  operator: Fairfax County Fire and Rescue Department
+  battalion: '401'
+  division: '401'
+  source:
+  - {url: 'https://data-fairfaxcountygis.opendata.arcgis.com/datasets/Fairfaxcountygis::fire-stations-3', confidence: official}
+  - {url: 'https://www.fairfaxcounty.gov/fire-ems/fire-stations', confidence: official}
+  - {url: 'https://services2.arcgis.com/S6mKhQEnAuTji2Zb/arcgis/rest/services/FRD_Battalion/FeatureServer/0', confidence: official}
+  - {url: 'https://services2.arcgis.com/S6mKhQEnAuTji2Zb/arcgis/rest/services/FRD_Division/FeatureServer/0', confidence: official}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-station-440
+  name: Fire Station 40 - Fairfax Center
+  type: station
+  address: 4621 Legato Road, Fairfax, VA 22030
+  lat: 38.848574
+  long: -77.365238
+  coordinate_source: source-provided
+  operator: Fairfax County Fire and Rescue Department
+  battalion: '407'
+  division: '401'
+  source:
+  - {url: 'https://data-fairfaxcountygis.opendata.arcgis.com/datasets/Fairfaxcountygis::fire-stations-3', confidence: official}
+  - {url: 'https://www.fairfaxcounty.gov/fire-ems/fire-stations', confidence: official}
+  - {url: 'https://services2.arcgis.com/S6mKhQEnAuTji2Zb/arcgis/rest/services/FRD_Battalion/FeatureServer/0', confidence: official}
+  - {url: 'https://services2.arcgis.com/S6mKhQEnAuTji2Zb/arcgis/rest/services/FRD_Division/FeatureServer/0', confidence: official}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-station-441
+  name: Fire Station 41 - Crosspointe
+  type: station
+  address: 9610 Hampton Road, Fairfax Station, VA 22039
+  lat: 38.719492
+  long: -77.278585
+  coordinate_source: source-provided
+  operator: Fairfax County Fire and Rescue Department
+  battalion: '405'
+  division: '402'
+  source:
+  - {url: 'https://data-fairfaxcountygis.opendata.arcgis.com/datasets/Fairfaxcountygis::fire-stations-3', confidence: official}
+  - {url: 'https://www.fairfaxcounty.gov/fire-ems/fire-stations', confidence: official}
+  - {url: 'https://services2.arcgis.com/S6mKhQEnAuTji2Zb/arcgis/rest/services/FRD_Battalion/FeatureServer/0', confidence: official}
+  - {url: 'https://services2.arcgis.com/S6mKhQEnAuTji2Zb/arcgis/rest/services/FRD_Division/FeatureServer/0', confidence: official}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-station-442
+  name: Fire Station 42 - Wolftrap
+  type: station
+  address: 1315 Beulah Road, Vienna, VA 22182
+  lat: 38.957282
+  long: -77.274964
+  coordinate_source: source-provided
+  operator: Fairfax County Fire and Rescue Department
+  battalion: '401'
+  division: '401'
+  source:
+  - {url: 'https://data-fairfaxcountygis.opendata.arcgis.com/datasets/Fairfaxcountygis::fire-stations-3', confidence: official}
+  - {url: 'https://www.fairfaxcounty.gov/fire-ems/fire-stations', confidence: official}
+  - {url: 'https://services2.arcgis.com/S6mKhQEnAuTji2Zb/arcgis/rest/services/FRD_Battalion/FeatureServer/0', confidence: official}
+  - {url: 'https://services2.arcgis.com/S6mKhQEnAuTji2Zb/arcgis/rest/services/FRD_Division/FeatureServer/0', confidence: official}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-station-444
+  name: Fire Station 44 - Scotts Run
+  type: station
+  address: 1775 Old Meadow Lane, McLean, VA 22102
+  lat: 38.919454
+  long: -77.214863
+  coordinate_source: source-provided
+  operator: Fairfax County Fire and Rescue Department
+  battalion: '402'
+  division: '401'
+  source:
+  - {url: 'https://data-fairfaxcountygis.opendata.arcgis.com/datasets/Fairfaxcountygis::fire-stations-3', confidence: official}
+  - {url: 'https://www.fairfaxcounty.gov/fire-ems/fire-stations', confidence: official}
+  - {url: 'https://services2.arcgis.com/S6mKhQEnAuTji2Zb/arcgis/rest/services/FRD_Battalion/FeatureServer/0', confidence: official}
+  - {url: 'https://services2.arcgis.com/S6mKhQEnAuTji2Zb/arcgis/rest/services/FRD_Division/FeatureServer/0', confidence: official}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-headquarters-01
+  name: Public Safety Headquarters
+  type: headquarters
+  address: 12099 Government Center Parkway, Fairfax, VA 22035
+  lat: 38.857287
+  long: -77.360812
+  coordinate_source: geocoded
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://www.fairfaxcounty.gov/fire-ems/fire-stations', confidence: official}
+  - {url: 'https://geocoding.geo.census.gov/geocoder/', confidence: official}
+  last_verified: '2026-10-04'
+- id: fairfax-county-training-01
+  name: Fire and Rescue Academy
+  type: training
+  address: 4600 West Ox Road, Fairfax, VA 22033
+  lat: 38.854636
+  long: -77.372244
+  coordinate_source: geocoded
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://www.fairfaxcounty.gov/fire-ems/fire-stations', confidence: official}
+  - {url: 'https://geocoding.geo.census.gov/geocoder/', confidence: official}
+  last_verified: '2026-10-04'
+- id: fairfax-county-storage-01
+  name: Logistics Distribution Center
+  type: storage
+  address: 6800A Industrial Road, Springfield, VA 22151
+  lat: 38.798575
+  long: -77.179659
+  coordinate_source: geocoded
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://www.fairfaxcounty.gov/fire-ems/fire-stations', confidence: official}
+  - {url: 'https://geocoding.geo.census.gov/geocoder/', confidence: official}
+  last_verified: '2026-10-04'
+- id: fairfax-county-maintenance-01
+  name: Apparatus Shop, North
+  type: maintenance
+  address: 4612 West Ox Road, Fairfax, VA 22033
+  lat: 38.854416
+  long: -77.372305
+  coordinate_source: geocoded
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://www.fairfaxcounty.gov/fire-ems/fire-stations', confidence: official}
+  - {url: 'https://geocoding.geo.census.gov/geocoder/', confidence: official}
+  last_verified: '2026-10-04'
+- id: fairfax-county-maintenance-02
+  name: Apparatus Shop, South
+  type: maintenance
+  address: 8191 Cinder Bed Road, Lorton, VA 22079
+  lat: 38.734642
+  long: -77.18394
+  coordinate_source: geocoded
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://www.fairfaxcounty.gov/fire-ems/fire-stations', confidence: official}
+  - {url: 'https://geocoding.geo.census.gov/geocoder/', confidence: official}
+  last_verified: '2026-10-04'
+- id: fairfax-county-training-02
+  name: FRD/USAR – Lorton Training Site
+  type: training
+  address: 9900 Furnace Road, Lorton, VA 22079
+  lat: 38.685538
+  long: -77.244912
+  coordinate_source: source-provided
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://services2.arcgis.com/S6mKhQEnAuTji2Zb/arcgis/rest/services/FRD_Fire_Facilities/FeatureServer/0', confidence: official}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'

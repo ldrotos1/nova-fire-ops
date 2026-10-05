@@ -126,7 +126,10 @@ def main():
                     error(path, rid, f"volunteer_operator '{vol}' is not in {slug}/department.yaml volunteer_companies")
                 if kind == "facilities":
                     facility_ids.add(rid)
-                else:
+                    for field in ("battalion", "division"):
+                        if field in record and record["type"] != "station":
+                            error(path, rid, f"{field} is only allowed on station records")
+                elif "home_facility_id" in record:
                     pending_home_refs.append((path, rid, record["home_facility_id"]))
 
     hospitals_path = ROOT / "hospitals.yaml"

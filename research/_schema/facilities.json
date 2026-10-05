@@ -28,6 +28,8 @@
       "coordinate_source": { "$ref": "common.json#/$defs/coordinateSource" },
       "operator": { "$ref": "common.json#/$defs/nonEmptyString" },
       "volunteer_operator": { "$ref": "common.json#/$defs/slug" },
+      "battalion": { "$ref": "common.json#/$defs/nonEmptyString" },
+      "division": { "$ref": "common.json#/$defs/nonEmptyString" },
       "source": { "$ref": "common.json#/$defs/sourceList" },
       "last_verified": { "$ref": "common.json#/$defs/date" }
     }

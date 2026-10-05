@@ -1,0 +1,2399 @@
+- id: fairfax-county-engine-401
+  label: Engine 401
+  type: Engine
+  category: [engine]
+  home_facility_id: fairfax-county-station-401
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-tower-401
+  label: Tower 401
+  type: Tower
+  category: [ladder]
+  home_facility_id: fairfax-county-station-401
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-rescue-401
+  label: Rescue 401
+  type: Rescue
+  category: [rescue]
+  home_facility_id: fairfax-county-station-425
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-medic-401
+  label: Medic 401
+  type: Medic
+  category: [ambulance-als]
+  home_facility_id: fairfax-county-station-401
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-medic-401c
+  label: Medic 401C
+  type: Medic
+  category: [ambulance-als]
+  status: reserve
+  home_facility_id: fairfax-county-station-401
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-ambulance-401e
+  label: Ambulance 401E
+  type: Ambulance
+  category: [ambulance-bls]
+  status: reserve
+  home_facility_id: fairfax-county-station-401
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-utility-401
+  label: Utility 401
+  type: Utility
+  category: [general-support]
+  home_facility_id: fairfax-county-station-401
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-engine-402
+  label: Engine 402
+  type: Engine
+  category: [engine]
+  home_facility_id: fairfax-county-station-402
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  - {url: 'https://vvfd.org/about/apparatus/', confidence: official}
+  last_verified: '2026-10-04'
+- id: fairfax-county-engine-402b
+  label: Engine 402B
+  type: Engine
+  category: [engine]
+  status: reserve
+  home_facility_id: fairfax-county-station-402
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  - {url: 'https://vvfd.org/about/apparatus/', confidence: official}
+  last_verified: '2026-10-04'
+- id: fairfax-county-brush-402
+  label: Brush 402
+  type: Brush
+  category: [brush]
+  home_facility_id: fairfax-county-station-402
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  - {url: 'https://vvfd.org/about/apparatus/', confidence: official}
+  last_verified: '2026-10-04'
+- id: fairfax-county-medic-402
+  label: Medic 402
+  type: Medic
+  category: [ambulance-als]
+  home_facility_id: fairfax-county-station-402
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  - {url: 'https://vvfd.org/about/apparatus/', confidence: official}
+  last_verified: '2026-10-04'
+- id: fairfax-county-ambulance-402
+  label: Ambulance 402
+  type: Ambulance
+  category: [ambulance-bls]
+  home_facility_id: fairfax-county-station-402
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  - {url: 'https://vvfd.org/about/apparatus/', confidence: official}
+  last_verified: '2026-10-04'
+- id: fairfax-county-utility-402
+  label: Utility 402
+  type: Utility
+  category: [general-support]
+  home_facility_id: fairfax-county-station-402
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  - {url: 'https://vvfd.org/about/apparatus/', confidence: official}
+  last_verified: '2026-10-04'
+- id: fairfax-county-ems-bike-team-01
+  label: EMS Bike Team
+  type: EMS Bike Team
+  category: [other]
+  home_facility_id: fairfax-county-station-402
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-engine-404
+  label: Engine 404
+  type: Engine
+  category: [engine]
+  home_facility_id: fairfax-county-station-404
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-medic-404
+  label: Medic 404
+  type: Medic
+  category: [ambulance-als]
+  home_facility_id: fairfax-county-station-404
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-als-404
+  label: ALS 404
+  type: ALS
+  category: [ems-supervisor]
+  home_facility_id: fairfax-county-station-405
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-engine-405
+  label: Engine 405
+  type: Engine
+  category: [engine]
+  home_facility_id: fairfax-county-station-405
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-engine-405b
+  label: Engine 405B
+  type: Engine
+  category: [engine]
+  status: reserve
+  home_facility_id: fairfax-county-station-405
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-tower-405
+  label: Tower 405
+  type: Tower
+  category: [ladder]
+  home_facility_id: fairfax-county-station-405
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-brush-405
+  label: Brush 405
+  type: Brush
+  category: [brush]
+  home_facility_id: fairfax-county-station-405
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-medic-405
+  label: Medic 405
+  type: Medic
+  category: [ambulance-als]
+  home_facility_id: fairfax-county-station-405
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-medic-405b
+  label: Medic 405B
+  type: Medic
+  category: [ambulance-als]
+  status: reserve
+  home_facility_id: fairfax-county-station-405
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-utility-405
+  label: Utility 405
+  type: Utility
+  category: [general-support]
+  home_facility_id: fairfax-county-station-405
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-chief-405
+  label: Chief 405
+  type: Chief
+  category: [command]
+  home_facility_id: fairfax-county-station-405
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-volunteer-chief-405
+  label: Volunteer Chief 405
+  type: Volunteer Chief
+  category: [command]
+  home_facility_id: fairfax-county-station-405
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-engine-408
+  label: Engine 408
+  type: Engine
+  category: [engine]
+  home_facility_id: fairfax-county-station-408
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-tower-408
+  label: Tower 408
+  type: Tower
+  category: [ladder]
+  home_facility_id: fairfax-county-station-408
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-medic-408
+  label: Medic 408
+  type: Medic
+  category: [ambulance-als]
+  home_facility_id: fairfax-county-station-408
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-ambulance-408
+  label: Ambulance 408
+  type: Ambulance
+  category: [ambulance-bls]
+  home_facility_id: fairfax-county-station-408
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-ambulance-408e
+  label: Ambulance 408E
+  type: Ambulance
+  category: [ambulance-bls]
+  status: reserve
+  home_facility_id: fairfax-county-station-408
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-canteen-408
+  label: Canteen 408
+  type: Canteen
+  category: [canteen]
+  home_facility_id: fairfax-county-station-408
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-chief-408
+  label: Chief 408
+  type: Chief
+  category: [command]
+  home_facility_id: fairfax-county-station-408
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-utility-408
+  label: Utility 408
+  type: Utility
+  category: [general-support]
+  home_facility_id: fairfax-county-station-408
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-advanced-life-support-402
+  label: Advanced Life Support 402
+  type: Advanced Life Support
+  category: [ems-supervisor]
+  home_facility_id: fairfax-county-station-409
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-engine-409
+  label: Engine 409
+  type: Engine
+  category: [engine]
+  home_facility_id: fairfax-county-station-409
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-medic-409
+  label: Medic 409
+  type: Medic
+  category: [ambulance-als]
+  home_facility_id: fairfax-county-station-409
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-ambulance-409
+  label: Ambulance 409
+  type: Ambulance
+  category: [ambulance-bls]
+  home_facility_id: fairfax-county-station-409
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-brush-409
+  label: Brush 409
+  type: Brush
+  category: [brush]
+  home_facility_id: fairfax-county-station-409
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-engine-410
+  label: Engine 410
+  type: Engine
+  category: [engine]
+  home_facility_id: fairfax-county-station-410
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  - {url: 'http://www.bxrvfd.org/apparatus.html', confidence: official}
+  last_verified: '2026-10-04'
+- id: fairfax-county-truck-410
+  label: Truck 410
+  type: Truck
+  category: [ladder]
+  home_facility_id: fairfax-county-station-410
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  - {url: 'http://www.bxrvfd.org/apparatus.html', confidence: official}
+  last_verified: '2026-10-04'
+- id: fairfax-county-medic-410
+  label: Medic 410
+  type: Medic
+  category: [ambulance-als]
+  home_facility_id: fairfax-county-station-410
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  - {url: 'http://www.bxrvfd.org/apparatus.html', confidence: official}
+  last_verified: '2026-10-04'
+- id: fairfax-county-ambulance-410
+  label: Ambulance 410
+  type: Ambulance
+  category: [ambulance-bls]
+  home_facility_id: fairfax-county-station-410
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-ambulance-410e
+  label: Ambulance 410E
+  type: Ambulance
+  category: [ambulance-bls]
+  status: reserve
+  home_facility_id: fairfax-county-station-410
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-rescue-406
+  label: Rescue 406
+  type: Rescue
+  category: [rescue]
+  home_facility_id: fairfax-county-station-411
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-battalion-chief-406
+  label: Battalion Chief 406
+  type: Battalion Chief
+  category: [command]
+  home_facility_id: fairfax-county-station-411
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-engine-411
+  label: Engine 411
+  type: Engine
+  category: [engine]
+  home_facility_id: fairfax-county-station-411
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-truck-411
+  label: Truck 411
+  type: Truck
+  category: [ladder]
+  home_facility_id: fairfax-county-station-411
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-medic-411
+  label: Medic 411
+  type: Medic
+  category: [ambulance-als]
+  home_facility_id: fairfax-county-station-411
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-ambulance-411
+  label: Ambulance 411
+  type: Ambulance
+  category: [ambulance-bls]
+  home_facility_id: fairfax-county-station-411
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-engine-412
+  label: Engine 412
+  type: Engine
+  category: [engine]
+  home_facility_id: fairfax-county-station-412
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  - {url: 'https://www.greatfallsvfd.org/apparatus.html', confidence: official}
+  last_verified: '2026-10-04'
+- id: fairfax-county-tanker-412
+  label: Tanker 412
+  type: Tanker
+  category: [tanker]
+  home_facility_id: fairfax-county-station-412
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  - {url: 'https://www.greatfallsvfd.org/apparatus.html', confidence: official}
+  last_verified: '2026-10-04'
+- id: fairfax-county-brush-412
+  label: Brush 412
+  type: Brush
+  category: [brush]
+  home_facility_id: fairfax-county-station-412
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  - {url: 'https://www.greatfallsvfd.org/apparatus.html', confidence: official}
+  last_verified: '2026-10-04'
+- id: fairfax-county-medic-412
+  label: Medic 412
+  type: Medic
+  category: [ambulance-als]
+  home_facility_id: fairfax-county-station-412
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  - {url: 'https://www.greatfallsvfd.org/apparatus.html', confidence: official}
+  last_verified: '2026-10-04'
+- id: fairfax-county-medic-412b
+  label: Medic 412B
+  type: Medic
+  category: [ambulance-als]
+  status: reserve
+  home_facility_id: fairfax-county-station-412
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-boat-support-412
+  label: Boat Support 412
+  type: Boat Support
+  category: [marine]
+  home_facility_id: fairfax-county-station-412
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  - {url: 'https://www.greatfallsvfd.org/apparatus.html', confidence: official}
+  last_verified: '2026-10-04'
+- id: fairfax-county-utility-412
+  label: Utility 412
+  type: Utility
+  category: [general-support]
+  home_facility_id: fairfax-county-station-412
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  - {url: 'https://www.greatfallsvfd.org/apparatus.html', confidence: official}
+  last_verified: '2026-10-04'
+- id: fairfax-county-utility-412b
+  label: Utility 412B
+  type: Utility
+  category: [general-support]
+  home_facility_id: fairfax-county-station-412
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  - {url: 'https://www.greatfallsvfd.org/apparatus.html', confidence: official}
+  last_verified: '2026-10-04'
+- id: fairfax-county-engine-413
+  label: Engine 413
+  type: Engine
+  category: [engine]
+  home_facility_id: fairfax-county-station-413
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  - {url: 'https://www.dlvfrd.org/apparatus', confidence: official}
+  last_verified: '2026-10-04'
+- id: fairfax-county-engine-413b
+  label: Engine 413B
+  type: Engine
+  category: [engine]
+  status: reserve
+  home_facility_id: fairfax-county-station-413
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  - {url: 'https://www.dlvfrd.org/apparatus', confidence: official}
+  last_verified: '2026-10-04'
+- id: fairfax-county-medic-413
+  label: Medic 413
+  type: Medic
+  category: [ambulance-als]
+  home_facility_id: fairfax-county-station-413
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-ambulance-413
+  label: Ambulance 413
+  type: Ambulance
+  category: [ambulance-bls]
+  home_facility_id: fairfax-county-station-413
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-rehab-unit-413
+  label: Rehab Unit 413
+  type: Rehab Unit
+  category: [rehabilitation]
+  home_facility_id: fairfax-county-station-413
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  - {url: 'https://www.dlvfrd.org/apparatus', confidence: official}
+  last_verified: '2026-10-04'
+- id: fairfax-county-utility-413
+  label: Utility 413
+  type: Utility
+  category: [general-support]
+  home_facility_id: fairfax-county-station-413
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  - {url: 'https://www.dlvfrd.org/apparatus', confidence: official}
+  last_verified: '2026-10-04'
+- id: fairfax-county-engine-414
+  label: Engine 414
+  type: Engine
+  category: [engine]
+  home_facility_id: fairfax-county-station-414
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-engine-414b
+  label: Engine 414B
+  type: Engine
+  category: [engine]
+  status: reserve
+  home_facility_id: fairfax-county-station-414
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-brush-414
+  label: Brush 414
+  type: Brush
+  category: [brush]
+  home_facility_id: fairfax-county-station-414
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-medic-414
+  label: Medic 414
+  type: Medic
+  category: [ambulance-als]
+  home_facility_id: fairfax-county-station-414
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-ambulance-414
+  label: Ambulance 414
+  type: Ambulance
+  category: [ambulance-bls]
+  home_facility_id: fairfax-county-station-414
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-ambulance-414e
+  label: Ambulance 414E
+  type: Ambulance
+  category: [ambulance-bls]
+  status: reserve
+  home_facility_id: fairfax-county-station-414
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-chief-414
+  label: Chief 414
+  type: Chief
+  category: [command]
+  home_facility_id: fairfax-county-station-414
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-battalion-chief-403
+  label: Battalion Chief 403
+  type: Battalion Chief
+  category: [command]
+  home_facility_id: fairfax-county-station-415
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-engine-415
+  label: Engine 415
+  type: Engine
+  category: [engine]
+  home_facility_id: fairfax-county-station-415
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-medic-415
+  label: Medic 415
+  type: Medic
+  category: [ambulance-als]
+  home_facility_id: fairfax-county-station-415
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-brush-415
+  label: Brush 415
+  type: Brush
+  category: [brush]
+  home_facility_id: fairfax-county-station-415
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-mass-casualty-support-415
+  label: Mass Casualty Support 415
+  type: Mass Casualty Support
+  category: [mass-casualty]
+  home_facility_id: fairfax-county-station-415
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-engine-416
+  label: Engine 416
+  type: Engine
+  category: [engine]
+  home_facility_id: fairfax-county-station-416
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-tanker-416
+  label: Tanker 416
+  type: Tanker
+  category: [tanker]
+  home_facility_id: fairfax-county-station-416
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-ambulance-416
+  label: Ambulance 416
+  type: Ambulance
+  category: [ambulance-bls]
+  home_facility_id: fairfax-county-station-416
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-brush-416
+  label: Brush 416
+  type: Brush
+  category: [brush]
+  home_facility_id: fairfax-county-station-416
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-engine-417
+  label: Engine 417
+  type: Engine
+  category: [engine]
+  home_facility_id: fairfax-county-station-417
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-engine-417b
+  label: Engine 417B
+  type: Engine
+  category: [engine]
+  status: reserve
+  home_facility_id: fairfax-county-station-417
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-medic-417
+  label: Medic 417
+  type: Medic
+  category: [ambulance-als]
+  home_facility_id: fairfax-county-station-417
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-ambulance-417
+  label: Ambulance 417
+  type: Ambulance
+  category: [ambulance-bls]
+  home_facility_id: fairfax-county-station-417
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-utility-417
+  label: Utility 417
+  type: Utility
+  category: [general-support]
+  home_facility_id: fairfax-county-station-417
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-canteen-417
+  label: Canteen 417
+  type: Canteen
+  category: [canteen]
+  home_facility_id: fairfax-county-station-417
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-chief-417
+  label: Chief 417
+  type: Chief
+  category: [command]
+  home_facility_id: fairfax-county-station-417
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-battalion-chief-404
+  label: Battalion Chief 404
+  type: Battalion Chief
+  category: [command]
+  home_facility_id: fairfax-county-station-418
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-ems-403
+  label: EMS 403
+  type: EMS
+  category: [ems-supervisor]
+  home_facility_id: fairfax-county-station-418
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-rescue-404
+  label: Rescue 404
+  type: Rescue
+  category: [rescue]
+  home_facility_id: fairfax-county-station-418
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-engine-418
+  label: Engine 418
+  type: Engine
+  category: [engine]
+  home_facility_id: fairfax-county-station-418
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-medic-418
+  label: Medic 418
+  type: Medic
+  category: [ambulance-als]
+  home_facility_id: fairfax-county-station-418
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-utility-418
+  label: Utility 418
+  type: Utility
+  category: [general-support]
+  home_facility_id: fairfax-county-station-418
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-technical-rescue-404
+  label: Technical Rescue 404
+  type: Technical Rescue
+  category: [rescue]
+  home_facility_id: fairfax-county-station-418
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-engine-419
+  label: Engine 419
+  type: Engine
+  category: [engine]
+  home_facility_id: fairfax-county-station-419
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-pumper-419
+  label: Pumper 419
+  type: Pumper
+  category: [engine]
+  home_facility_id: fairfax-county-station-419
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-medic-419
+  label: Medic 419
+  type: Medic
+  category: [ambulance-als]
+  home_facility_id: fairfax-county-station-419
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-medic-419b
+  label: Medic 419B
+  type: Medic
+  category: [ambulance-als]
+  status: reserve
+  home_facility_id: fairfax-county-station-419
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-engine-420
+  label: Engine 420
+  type: Engine
+  category: [engine]
+  home_facility_id: fairfax-county-station-420
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-tanker-420
+  label: Tanker 420
+  type: Tanker
+  category: [tanker]
+  home_facility_id: fairfax-county-station-420
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-ambulance-420
+  label: Ambulance 420
+  type: Ambulance
+  category: [ambulance-bls]
+  home_facility_id: fairfax-county-station-420
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-fire-boat-420
+  label: Fire Boat 420
+  type: Fire Boat
+  category: [marine]
+  home_facility_id: fairfax-county-station-420
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-deputy-fire-chief-of-operations-401
+  label: Deputy Fire Chief of Operations 401
+  type: Deputy Fire Chief of Operations
+  category: [command]
+  home_facility_id: fairfax-county-station-421
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-safety-401
+  label: Safety 401
+  type: Safety
+  category: [command]
+  home_facility_id: fairfax-county-station-421
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-engine-421
+  label: Engine 421
+  type: Engine
+  category: [engine]
+  home_facility_id: fairfax-county-station-421
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-engine-421b
+  label: Engine 421B
+  type: Engine
+  category: [engine]
+  status: reserve
+  home_facility_id: fairfax-county-station-421
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  - {url: 'https://fovfr.org/about/', confidence: official}
+  last_verified: '2026-10-04'
+- id: fairfax-county-medic-421
+  label: Medic 421
+  type: Medic
+  category: [ambulance-als]
+  home_facility_id: fairfax-county-station-421
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-ambulance-421e
+  label: Ambulance 421E
+  type: Ambulance
+  category: [ambulance-bls]
+  status: reserve
+  home_facility_id: fairfax-county-station-421
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  - {url: 'https://fovfr.org/about/', confidence: official}
+  last_verified: '2026-10-04'
+- id: fairfax-county-utility-421
+  label: Utility 421
+  type: Utility
+  category: [general-support]
+  home_facility_id: fairfax-county-station-421
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  - {url: 'https://fovfr.org/about/', confidence: official}
+  last_verified: '2026-10-04'
+- id: fairfax-county-chief-421
+  label: Chief 421
+  type: Chief
+  category: [command]
+  home_facility_id: fairfax-county-station-421
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-volunteer-chief-421
+  label: Volunteer Chief 421
+  type: Volunteer Chief
+  category: [command]
+  home_facility_id: fairfax-county-station-421
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-engine-422
+  label: Engine 422
+  type: Engine
+  category: [engine]
+  home_facility_id: fairfax-county-station-422
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  - {url: 'https://gsvfd.org/apparatus/', confidence: official}
+  last_verified: '2026-10-04'
+- id: fairfax-county-engine-422b
+  label: Engine 422B
+  type: Engine
+  category: [engine]
+  status: reserve
+  home_facility_id: fairfax-county-station-422
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  - {url: 'https://gsvfd.org/apparatus/', confidence: official}
+  last_verified: '2026-10-04'
+- id: fairfax-county-truck-422
+  label: Truck 422
+  type: Truck
+  category: [ladder]
+  home_facility_id: fairfax-county-station-422
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  - {url: 'https://gsvfd.org/', confidence: official}
+  last_verified: '2026-10-04'
+- id: fairfax-county-medic-422
+  label: Medic 422
+  type: Medic
+  category: [ambulance-als]
+  home_facility_id: fairfax-county-station-422
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  - {url: 'https://gsvfd.org/apparatus/', confidence: official}
+  last_verified: '2026-10-04'
+- id: fairfax-county-medic-422b
+  label: Medic 422B
+  type: Medic
+  category: [ambulance-als]
+  status: reserve
+  home_facility_id: fairfax-county-station-422
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  - {url: 'https://gsvfd.org/apparatus/', confidence: official}
+  last_verified: '2026-10-04'
+- id: fairfax-county-ambulance-422
+  label: Ambulance 422
+  type: Ambulance
+  category: [ambulance-bls]
+  home_facility_id: fairfax-county-station-422
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  - {url: 'https://gsvfd.org/apparatus/', confidence: official}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-utility-422
+  label: Utility 422
+  type: Utility
+  category: [general-support]
+  home_facility_id: fairfax-county-station-422
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  - {url: 'https://gsvfd.org/apparatus/', confidence: official}
+  last_verified: '2026-10-04'
+- id: fairfax-county-utility-422b
+  label: Utility 422B
+  type: Utility
+  category: [general-support]
+  home_facility_id: fairfax-county-station-422
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-canteen-422
+  label: Canteen 422
+  type: Canteen
+  category: [canteen]
+  home_facility_id: fairfax-county-station-422
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  - {url: 'https://gsvfd.org/apparatus/', confidence: official}
+  last_verified: '2026-10-04'
+- id: fairfax-county-engine-423
+  label: Engine 423
+  type: Engine
+  category: [engine]
+  home_facility_id: fairfax-county-station-423
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-ambulance-423
+  label: Ambulance 423
+  type: Ambulance
+  category: [ambulance-bls]
+  home_facility_id: fairfax-county-station-423
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-ambulance-423e
+  label: Ambulance 423E
+  type: Ambulance
+  category: [ambulance-bls]
+  status: reserve
+  home_facility_id: fairfax-county-station-423
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-light-air-423
+  label: Light/Air 423
+  type: Light/Air
+  category: [air-light]
+  home_facility_id: fairfax-county-station-423
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-engine-424
+  label: Engine 424
+  type: Engine
+  category: [engine]
+  home_facility_id: fairfax-county-station-424
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-tower-424
+  label: Tower 424
+  type: Tower
+  category: [ladder]
+  home_facility_id: fairfax-county-station-424
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-medic-424
+  label: Medic 424
+  type: Medic
+  category: [ambulance-als]
+  home_facility_id: fairfax-county-station-424
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-shru-424
+  label: SHRU 424
+  type: SHRU
+  category: [hazmat]
+  home_facility_id: fairfax-county-station-424
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-technical-rescue-401
+  label: Technical Rescue 401
+  type: Technical Rescue
+  category: [rescue]
+  home_facility_id: fairfax-county-station-425
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-swift-water-401
+  label: Swift Water 401
+  type: Swift Water
+  category: [marine]
+  home_facility_id: fairfax-county-station-425
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-battalion-chief-401
+  label: Battalion Chief 401
+  type: Battalion Chief
+  category: [command]
+  home_facility_id: fairfax-county-station-425
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-engine-425
+  label: Engine 425
+  type: Engine
+  category: [engine]
+  home_facility_id: fairfax-county-station-425
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-truck-425
+  label: Truck 425
+  type: Truck
+  category: [ladder]
+  home_facility_id: fairfax-county-station-425
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-medic-425
+  label: Medic 425
+  type: Medic
+  category: [ambulance-als]
+  home_facility_id: fairfax-county-station-425
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-brush-425
+  label: Brush 425
+  type: Brush
+  category: [brush]
+  home_facility_id: fairfax-county-station-425
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-rescue-408
+  label: Rescue 408
+  type: Rescue
+  category: [rescue]
+  home_facility_id: fairfax-county-station-426
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-battalion-chief-408
+  label: Battalion Chief 408
+  type: Battalion Chief
+  category: [command]
+  home_facility_id: fairfax-county-station-426
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-engine-426
+  label: Engine 426
+  type: Engine
+  category: [engine]
+  home_facility_id: fairfax-county-station-426
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-foam-426
+  label: Foam 426
+  type: Foam
+  category: [other]
+  home_facility_id: fairfax-county-station-426
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-medic-426
+  label: Medic 426
+  type: Medic
+  category: [ambulance-als]
+  home_facility_id: fairfax-county-station-426
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-ems-402
+  label: EMS 402
+  type: EMS
+  category: [ems-supervisor]
+  home_facility_id: fairfax-county-station-427
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-engine-427
+  label: Engine 427
+  type: Engine
+  category: [engine]
+  home_facility_id: fairfax-county-station-427
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-ambulance-427
+  label: Ambulance 427
+  type: Ambulance
+  category: [ambulance-bls]
+  home_facility_id: fairfax-county-station-427
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-mab-427
+  label: MAB 427
+  type: MAB
+  category: [medical-bus]
+  home_facility_id: fairfax-county-station-427
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-engine-428
+  label: Engine 428
+  type: Engine
+  category: [engine]
+  home_facility_id: fairfax-county-station-428
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-ambulance-428
+  label: Ambulance 428
+  type: Ambulance
+  category: [ambulance-bls]
+  home_facility_id: fairfax-county-station-428
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-battalion-chief-402
+  label: Battalion Chief 402
+  type: Battalion Chief
+  category: [command]
+  home_facility_id: fairfax-county-station-429
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-engine-429
+  label: Engine 429
+  type: Engine
+  category: [engine]
+  home_facility_id: fairfax-county-station-429
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-truck-429
+  label: Truck 429
+  type: Truck
+  category: [ladder]
+  home_facility_id: fairfax-county-station-429
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-medic-429
+  label: Medic 429
+  type: Medic
+  category: [ambulance-als]
+  home_facility_id: fairfax-county-station-429
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-safety-403
+  label: Safety 403
+  type: Safety
+  category: [command]
+  home_facility_id: fairfax-county-station-430
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-engine-430
+  label: Engine 430
+  type: Engine
+  category: [engine]
+  home_facility_id: fairfax-county-station-430
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-truck-430
+  label: Truck 430
+  type: Truck
+  category: [ladder]
+  home_facility_id: fairfax-county-station-430
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-medic-430
+  label: Medic 430
+  type: Medic
+  category: [ambulance-als]
+  home_facility_id: fairfax-county-station-430
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-advanced-life-support-401
+  label: Advanced Life Support 401
+  type: Advanced Life Support
+  category: [ems-supervisor]
+  home_facility_id: fairfax-county-station-431
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-engine-431
+  label: Engine 431
+  type: Engine
+  category: [engine]
+  home_facility_id: fairfax-county-station-431
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-ambulance-431
+  label: Ambulance 431
+  type: Ambulance
+  category: [ambulance-bls]
+  home_facility_id: fairfax-county-station-431
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-shru-431
+  label: SHRU 431
+  type: SHRU
+  category: [hazmat]
+  home_facility_id: fairfax-county-station-431
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-engine-432
+  label: Engine 432
+  type: Engine
+  category: [engine]
+  home_facility_id: fairfax-county-station-432
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-medic-432
+  label: Medic 432
+  type: Medic
+  category: [ambulance-als]
+  home_facility_id: fairfax-county-station-432
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-commander-aid-400
+  label: Commander Aid 400
+  type: Commander Aid
+  category: [command]
+  home_facility_id: fairfax-county-station-434
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-engine-434
+  label: Engine 434
+  type: Engine
+  category: [engine]
+  home_facility_id: fairfax-county-station-434
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-ambulance-434
+  label: Ambulance 434
+  type: Ambulance
+  category: [ambulance-bls]
+  home_facility_id: fairfax-county-station-434
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-rescue-405
+  label: Rescue 405
+  type: Rescue
+  category: [rescue]
+  home_facility_id: fairfax-county-station-435
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-technical-rescue-405
+  label: Technical Rescue 405
+  type: Technical Rescue
+  category: [rescue]
+  home_facility_id: fairfax-county-station-435
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-battalion-chief-405
+  label: Battalion Chief 405
+  type: Battalion Chief
+  category: [command]
+  home_facility_id: fairfax-county-station-435
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-engine-435
+  label: Engine 435
+  type: Engine
+  category: [engine]
+  home_facility_id: fairfax-county-station-435
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-medic-435
+  label: Medic 435
+  type: Medic
+  category: [ambulance-als]
+  home_facility_id: fairfax-county-station-435
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-support-unit-435
+  label: Support Unit 435
+  type: Support Unit
+  category: [other]
+  home_facility_id: fairfax-county-station-435
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-engine-436
+  label: Engine 436
+  type: Engine
+  category: [engine]
+  home_facility_id: fairfax-county-station-436
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-tower-436
+  label: Tower 436
+  type: Tower
+  category: [ladder]
+  home_facility_id: fairfax-county-station-436
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-ambulance-436
+  label: Ambulance 436
+  type: Ambulance
+  category: [ambulance-bls]
+  home_facility_id: fairfax-county-station-436
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-light-air-436
+  label: Light/Air 436
+  type: Light/Air
+  category: [air-light]
+  home_facility_id: fairfax-county-station-436
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-safety-402
+  label: Safety 402
+  type: Safety
+  category: [command]
+  home_facility_id: fairfax-county-station-437
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-engine-437
+  label: Engine 437
+  type: Engine
+  category: [engine]
+  home_facility_id: fairfax-county-station-437
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-ambulance-437
+  label: Ambulance 437
+  type: Ambulance
+  category: [ambulance-bls]
+  home_facility_id: fairfax-county-station-437
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-ambulance-437e
+  label: Ambulance 437E
+  type: Ambulance
+  category: [ambulance-bls]
+  status: reserve
+  home_facility_id: fairfax-county-station-437
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-light-air-437
+  label: Light/Air 437
+  type: Light/Air
+  category: [air-light]
+  home_facility_id: fairfax-county-station-437
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-advanced-life-support-403
+  label: Advanced Life Support 403
+  type: Advanced Life Support
+  category: [ems-supervisor]
+  home_facility_id: fairfax-county-station-438
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-engine-438
+  label: Engine 438
+  type: Engine
+  category: [engine]
+  home_facility_id: fairfax-county-station-438
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-tower-438
+  label: Tower 438
+  type: Tower
+  category: [ladder]
+  home_facility_id: fairfax-county-station-438
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-ambulance-438
+  label: Ambulance 438
+  type: Ambulance
+  category: [ambulance-bls]
+  home_facility_id: fairfax-county-station-438
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-engine-439
+  label: Engine 439
+  type: Engine
+  category: [engine]
+  home_facility_id: fairfax-county-station-439
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-tanker-439
+  label: Tanker 439
+  type: Tanker
+  category: [tanker]
+  home_facility_id: fairfax-county-station-439
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-rescue-439
+  label: Rescue 439
+  type: Rescue
+  category: [rescue]
+  home_facility_id: fairfax-county-station-439
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-technical-rescue-439
+  label: Technical Rescue 439
+  type: Technical Rescue
+  category: [rescue]
+  home_facility_id: fairfax-county-station-439
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-medic-439
+  label: Medic 439
+  type: Medic
+  category: [ambulance-als]
+  home_facility_id: fairfax-county-station-439
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-hazmat-401
+  label: Hazmat 401
+  type: Hazmat
+  category: [hazmat]
+  home_facility_id: fairfax-county-station-440
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-hazmat-support-401
+  label: Hazmat Support 401
+  type: Hazmat Support
+  category: [hazmat]
+  home_facility_id: fairfax-county-station-440
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-battalion-chief-407
+  label: Battalion Chief 407
+  type: Battalion Chief
+  category: [command]
+  home_facility_id: fairfax-county-station-440
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-engine-440
+  label: Engine 440
+  type: Engine
+  category: [engine]
+  home_facility_id: fairfax-county-station-440
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-tower-440
+  label: Tower 440
+  type: Tower
+  category: [ladder]
+  home_facility_id: fairfax-county-station-440
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-ambulance-440
+  label: Ambulance 440
+  type: Ambulance
+  category: [ambulance-bls]
+  home_facility_id: fairfax-county-station-440
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-engine-441
+  label: Engine 441
+  type: Engine
+  category: [engine]
+  home_facility_id: fairfax-county-station-441
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-truck-441
+  label: Truck 441
+  type: Truck
+  category: [ladder]
+  home_facility_id: fairfax-county-station-441
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-tanker-441
+  label: Tanker 441
+  type: Tanker
+  category: [tanker]
+  home_facility_id: fairfax-county-station-441
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-brush-441
+  label: Brush 441
+  type: Brush
+  category: [brush]
+  home_facility_id: fairfax-county-station-441
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-ambulance-441
+  label: Ambulance 441
+  type: Ambulance
+  category: [ambulance-bls]
+  home_facility_id: fairfax-county-station-441
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-ems-401
+  label: EMS 401
+  type: EMS
+  category: [ems-supervisor]
+  home_facility_id: fairfax-county-station-442
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-engine-442
+  label: Engine 442
+  type: Engine
+  category: [engine]
+  home_facility_id: fairfax-county-station-442
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-tanker-442
+  label: Tanker 442
+  type: Tanker
+  category: [tanker]
+  home_facility_id: fairfax-county-station-442
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-ambulance-442
+  label: Ambulance 442
+  type: Ambulance
+  category: [ambulance-bls]
+  home_facility_id: fairfax-county-station-442
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-command-aid-401
+  label: Command Aid 401
+  type: Command Aid
+  category: [command]
+  home_facility_id: fairfax-county-station-444
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-rescue-402
+  label: Rescue 402
+  type: Rescue
+  category: [rescue]
+  home_facility_id: fairfax-county-station-444
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-paramedic-engine-444
+  label: Paramedic Engine 444
+  type: Paramedic Engine
+  category: [engine]
+  als_capable: true
+  home_facility_id: fairfax-county-station-444
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-ambulance-444
+  label: Ambulance 444
+  type: Ambulance
+  category: [ambulance-bls]
+  home_facility_id: fairfax-county-station-444
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  - {url: 'https://wiki.radioreference.com/index.php/Fairfax_County_(VA)', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-chief-400
+  label: Chief 400
+  type: Chief
+  category: [command]
+  home_facility_id: fairfax-county-headquarters-01
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-battalion-chief-470
+  label: Battalion Chief 470
+  type: Battalion Chief
+  category: [command]
+  home_facility_id: fairfax-county-headquarters-01
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-assistant-chief-01
+  label: Assistant Chief
+  type: Assistant Chief
+  category: [command]
+  home_facility_id: fairfax-county-headquarters-01
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-assistant-chief-02
+  label: Assistant Chief
+  type: Assistant Chief
+  category: [command]
+  home_facility_id: fairfax-county-headquarters-01
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-fire-marshal-investigator-01
+  label: Fire Marshal Investigator
+  type: Fire Marshal Investigator
+  category: [other]
+  home_facility_id: fairfax-county-headquarters-01
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-fire-marshal-investigator-02
+  label: Fire Marshal Investigator
+  type: Fire Marshal Investigator
+  category: [other]
+  home_facility_id: fairfax-county-headquarters-01
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-fire-marshal-investigator-03
+  label: Fire Marshal Investigator
+  type: Fire Marshal Investigator
+  category: [other]
+  home_facility_id: fairfax-county-headquarters-01
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-fire-marshal-investigator-04
+  label: Fire Marshal Investigator
+  type: Fire Marshal Investigator
+  category: [other]
+  home_facility_id: fairfax-county-headquarters-01
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-fire-code-enforcement-01
+  label: Fire Code Enforcement
+  type: Fire Code Enforcement
+  category: [other]
+  home_facility_id: fairfax-county-headquarters-01
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-fire-code-enforcement-02
+  label: Fire Code Enforcement
+  type: Fire Code Enforcement
+  category: [other]
+  home_facility_id: fairfax-county-headquarters-01
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-fire-code-enforcement-03
+  label: Fire Code Enforcement
+  type: Fire Code Enforcement
+  category: [other]
+  home_facility_id: fairfax-county-headquarters-01
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-logistics-402
+  label: Logistics 402
+  type: Logistics
+  category: [other]
+  home_facility_id: fairfax-county-storage-01
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-logistics-403
+  label: Logistics 403
+  type: Logistics
+  category: [other]
+  home_facility_id: fairfax-county-storage-01
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-scba-ts-01
+  label: SCBA TS
+  type: SCBA TS
+  category: [other]
+  home_facility_id: fairfax-county-storage-01
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-meter-shop-01
+  label: Meter Shop
+  type: Meter Shop
+  category: [other]
+  home_facility_id: fairfax-county-storage-01
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-logistics-division-01
+  label: Logistics Division
+  type: Logistics Division
+  category: [other]
+  home_facility_id: fairfax-county-storage-01
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-logistics-division-02
+  label: Logistics Division
+  type: Logistics Division
+  category: [other]
+  home_facility_id: fairfax-county-storage-01
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-fire-code-enforcement-04
+  label: Fire Code Enforcement
+  type: Fire Code Enforcement
+  category: [other]
+  home_facility_id: fairfax-county-training-01
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-foam-unit-1
+  label: Foam Unit 1
+  type: Foam Unit
+  category: [other]
+  home_facility_id: fairfax-county-training-01
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-foam-unit-11
+  label: Foam Unit 11
+  type: Foam Unit
+  category: [other]
+  home_facility_id: fairfax-county-training-01
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-field-training-officer-400
+  label: Field Training Officer 400
+  type: Field Training Officer
+  category: [other]
+  home_facility_id: fairfax-county-training-01
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-cert-400
+  label: CERT 400
+  type: CERT
+  category: [other]
+  home_facility_id: fairfax-county-training-01
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-training-division-01
+  label: Training Division
+  type: Training Division
+  category: [other]
+  home_facility_id: fairfax-county-training-01
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-training-division-02
+  label: Training Division
+  type: Training Division
+  category: [other]
+  home_facility_id: fairfax-county-training-01
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-cert-trailer-01
+  label: CERT Trailer
+  type: CERT Trailer
+  category: [other]
+  home_facility_id: fairfax-county-training-01
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-mobile-command-post-400
+  label: Mobile Command Post 400
+  type: Mobile Command Post
+  category: [command]
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-operational-medical-director-402
+  label: Operational Medical Director 402
+  type: Operational Medical Director
+  category: [ems-supervisor]
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-battalion-chief-471
+  label: Battalion Chief 471
+  type: Battalion Chief
+  category: [command]
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-battalion-chief-472
+  label: Battalion Chief 472
+  type: Battalion Chief
+  category: [command]
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-battalion-chief-474
+  label: Battalion Chief 474
+  type: Battalion Chief
+  category: [command]
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-battalion-chief-492
+  label: Battalion Chief 492
+  type: Battalion Chief
+  category: [command]
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-fire-marshal-3271
+  label: Fire Marshal 3271
+  type: Fire Marshal
+  category: [other]
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-communications-division-01
+  label: Communications Division
+  type: Communications Division
+  category: [other]
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://fire.fandom.com/wiki/Fairfax_County_Fire_and_Rescue_Department', confidence: secondary}
+  last_verified: '2026-10-04'
+- id: fairfax-county-chief-402
+  label: Chief 402
+  type: Chief
+  category: [command]
+  home_facility_id: fairfax-county-station-402
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://vvfd.org/about/apparatus/', confidence: official}
+  last_verified: '2026-10-04'
+- id: fairfax-county-swiftwater-412
+  label: Swiftwater 412
+  type: Swiftwater
+  category: [marine]
+  home_facility_id: fairfax-county-station-412
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://www.greatfallsvfd.org/apparatus.html', confidence: official}
+  last_verified: '2026-10-04'
+- id: fairfax-county-swiftwater-412b
+  label: Swiftwater 412B
+  type: Swiftwater
+  category: [marine]
+  home_facility_id: fairfax-county-station-412
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://www.greatfallsvfd.org/apparatus.html', confidence: official}
+  last_verified: '2026-10-04'
+- id: fairfax-county-swiftwater-412c
+  label: Swiftwater 412C
+  type: Swiftwater
+  category: [marine]
+  home_facility_id: fairfax-county-station-412
+  operator: Fairfax County Fire and Rescue Department
+  source:
+  - {url: 'https://www.greatfallsvfd.org/apparatus.html', confidence: official}
+  last_verified: '2026-10-04'

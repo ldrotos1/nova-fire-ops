@@ -65,6 +65,7 @@
         "mass-casualty",
         "rehabilitation",
         "canteen",
+        "general-support",
         "other"
       ]
     }
